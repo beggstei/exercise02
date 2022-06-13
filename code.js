@@ -1,10 +1,4 @@
-//const element = document.querySelector('[data-js="sitz"]');
-//element.classList.add("red");
-console.log("bndnd");
-//let x = 0;
-//delayTime(1000);
-//addEventListener
-//document.getElementById("carddd").style.backgroundColor = "red";
+
 
 document.getElementById("feldred").addEventListener("click", function(){document.getElementById("carddd").style.backgroundColor = "red";})
 document.getElementById("feldblue").addEventListener("click", function(){document.getElementById("carddd").style.backgroundColor = "blue";})
@@ -15,7 +9,16 @@ document.getElementById("feldpink").addEventListener("click", function(){documen
 
 
 
+// -------------- TRASH -----------------
 
+
+//const element = document.querySelector('[data-js="sitz"]');
+//element.classList.add("red");
+//console.log("bndnd");
+//let x = 0;
+//delayTime(1000);
+//addEventListener
+//document.getElementById("carddd").style.backgroundColor = "red";
 
 //document.getElementById("carddd").addEventListener("click", colorChange());
 /*
